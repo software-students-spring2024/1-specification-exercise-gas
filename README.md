@@ -15,7 +15,7 @@ See instructions. Delete this line and replace with the name(s) of the stakehold
 
 ## Product Vision Statement
 
-See instructions. Delete this line and place your Product Vision Statement here.
+Provide a fair scheduling system for the Hudson River Park tennis court and a platform for the players to connect with each other, making it easy for them to find players with similar skill levels. 
 
 ## User Requirements
 
