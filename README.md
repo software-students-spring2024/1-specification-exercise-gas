@@ -14,6 +14,12 @@ See instructions. Delete this line and replace with a list of the names of your 
 
 See instructions. Delete this line and replace with the name(s) of the stakeholder(s) you interviewed and lists showing their goals/needs, and problems/frustrations.
 
+The combined goals/needs of potential users interviewed:
+* Can play at courts at the time of need with no wait time
+* Can find a partner easily and play with someone with a similar skill level
+* Find a community of tennis players
+* Can restrict play time to prevent overbooking
+
 ## Product Vision Statement
 
 Provide a fair scheduling system for the Hudson River Park tennis court and a platform for the players to connect with each other, making it easy for them to find players with similar skill levels. 
