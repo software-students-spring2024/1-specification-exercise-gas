@@ -23,6 +23,10 @@ The combined problems/frustrations of potential users interviewed:
 * Courts are very expensive to book
 * Have to wait physically for long hours at outdoor courts to get in line
 
+Stakeholders Names:
+* Alessia
+* Kendall
+
 ## Product Vision Statement
 
 Provide a fair scheduling system for the Hudson River Park tennis court and a platform for the players to connect with each other, making it easy for them to find players with similar skill levels. 
