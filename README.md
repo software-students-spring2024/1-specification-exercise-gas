@@ -26,7 +26,17 @@ Provide a fair scheduling system for the Hudson River Park tennis court and a pl
 
 ## User Requirements
 
-See instructions. Delete this line and place a list of your User Stories here.
+* As a tennis player user, I want to log in so that I can track what time slots and games I’ve booked.
+* As a tennis player user, I want to log out so that others can use the app on my device.
+* As a tennis player user, I want to change my username and password so that I can keep my information private.
+* As a beginner tennis player user, I want to be able to play even without a ranking so that I can play without setting up other accounts.
+* As an experienced tennis player user, I want to be able to connect my UTR rating so that I can compare my level with potential playing partners.
+* As a tennis player user, I want to message potential playing partners so that I can find them at the court.
+* As a tennis player user, I want to report other users so that I can prevent bad actors from using the app.
+* As a tennis player user, I want to book time slots so that I can reserve slots in advance without having to wait physically at the courts.
+* As a tennis player user, I want to cancel time slots so that I can let other players book if I can’t make it.
+* As a tennis player user, I want the app to limit other user’s playing time so that I can have equal playing time as other players.
+
 
 ## Activity Diagrams
 
