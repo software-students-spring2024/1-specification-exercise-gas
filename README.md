@@ -8,6 +8,7 @@ See instructions. Delete this line and replace with a list of the names of your 
 - Ahmet Ilten (Github: [iltenahmet](https://github.com/iltenahmet))
 - Amber Li (Github: [al6862](https://github.com/al6862))
 - Shriya Kalakata (Github: [shriyakalakata](https://github.com/shriyakalakata))
+- Glenda Boeker (Github: [gboeker](https://github.com/gboeker))
 
 ## Stakeholders
 
