@@ -6,6 +6,7 @@ A little exercise to get started with the specification phase of the software de
 
 See instructions. Delete this line and replace with a list of the names of your team members, including links to each one's GitHub profile.
 - Ahmet Ilten (Github: [iltenahmet](https://github.com/iltenahmet))
+- Shriya Kalakata (Github: [shriyakalakata](https://github.com/shriyakalakata))
 
 ## Stakeholders
 
