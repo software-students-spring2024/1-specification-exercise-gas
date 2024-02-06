@@ -46,9 +46,9 @@ Provide a fair scheduling system for the Hudson River Park tennis court and a pl
 
 ## Activity Diagrams
 
-<img src="/1-specification-exercise-gas/images/UML_activity_diagram.png" alt="uml diagram" width="400"/>
+<!-- <img src="images/UML_activity_diagram.png" alt="uml diagram" width="500"/> -->
 
-![image](/1-specification-exercise-gas/images/UML_activity_diagram.png)
+![image](images/UML_activity_diagram.png)
 
 
 1. As an experienced tennis player user, I want to be able to connect my UTR rating so that I can compare my level with potential playing partners.
