@@ -46,14 +46,13 @@ Provide a fair scheduling system for the Hudson River Park tennis court and a pl
 
 ## Activity Diagrams
 
-<!-- <img src="images/UML_activity_diagram.png" alt="uml diagram" width="500"/> -->
-
-![image](images/UML_activity_diagram.png)
+[Link to Diagrams in Figma](https://www.figma.com/file/BFRod3xFLJZbMwmyaT6Xdy/UML-Activity-Diagram?type=whiteboard&node-id=17001%3A718&t=yFRKDgVyDPNMnxcf-1)
 
 
-1. As an experienced tennis player user, I want to be able to connect my UTR rating so that I can compare my level with potential playing partners.
-2. As a tennis player user, I want to message potential playing partners so that I can find them at the court.
-3. As a tennis player user, I want to book time slots so that I can reserve slots in advance without having to wait physically at the courts.
+![image](images/UML_Activity_Diagram_1.png)
+![image](images/UML_Activity_Diagram_2.png)
+
+
 
 ## Clickable Prototype
 
