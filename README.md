@@ -48,8 +48,9 @@ Provide a fair scheduling system for the Hudson River Park tennis court and a pl
 
 [Link to Diagrams in Figma](https://www.figma.com/file/BFRod3xFLJZbMwmyaT6Xdy/UML-Activity-Diagram?type=whiteboard&node-id=17001%3A718&t=yFRKDgVyDPNMnxcf-1)
 
-
-![image](images/UML_Activity_Diagram_1.png)
+As a tennis player user, I want to message potential playing partners so that I can find them at the court.
+![image](images/UML_Activity_Diagram_3.png)
+As a tennis player user, I want to book time slots so that I can reserve slots in advance without having to wait physically at the courts.
 ![image](images/UML_Activity_Diagram_2.png)
 
 
