@@ -57,3 +57,5 @@ Provide a fair scheduling system for the Hudson River Park tennis court and a pl
 ## Clickable Prototype
 
 [Link to Wireframe](https://www.figma.com/file/hjcsoSkuLFykiJkHuhtolY/Hudson-Court-Scheduler-%2B-Player-Finder?type=design&node-id=0%3A1&mode=design&t=vNFXLHc3sm7isx4i-1)
+
+[Link to the clickable prototype](https://www.figma.com/proto/hjcsoSkuLFykiJkHuhtolY/Hudson-Court-Scheduler-%2B-Player-Finder?type=design&node-id=27-431&t=mro3AmiOT0Yz8LpV-0&scaling=scale-down&page-id=0%3A1&starting-point-node-id=27%3A431)
